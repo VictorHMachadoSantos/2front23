@@ -1,7 +1,18 @@
-p{
-    text-align: center;
- }
- body{
-    background-color:#f0f0f0;
-	color: white;
+p{ 
+	text-align: center;
 	}
+body{
+	background-color: #CCCCCC;
+		color: 000;
+		
+}
+em strong{
+	color: #FF0193;
+	}
+
+h1{
+	color: #9914FF;
+}
+#banner {
+    width: 100%;
+} 
