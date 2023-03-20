@@ -1,4 +1,4 @@
-p{ 
+p,.centralizar{ 
 	text-align: center;
 	}
 body{
@@ -10,7 +10,7 @@ em strong{
 	color: #FF0193;
 	}
 
-h1{
+h1,h2{
 	color: #9914FF;
 }
 #banner {
@@ -22,5 +22,11 @@ h1{
 	list-style: none;
 }
 #beneficios{
-	width:100%;
+	width: 50%;
+}
+ul{
+	display:inline-block;
+	width: 20%
+	margin: 15%;
+    vertical-align:top;	
 }
